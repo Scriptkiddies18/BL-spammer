@@ -1,5 +1,5 @@
-figlet Unknown was here | lolcat
-
+Hello M̶r̶ - C̶o̶r̶r̶u̶p̶t̶e̶d̶ in your system (:
+ 
 <?php
 
 echo "COPYRIGHT : SGB TEAM\n\n";
