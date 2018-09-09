@@ -1,3 +1,5 @@
+figlet Unknown was here | lolcat
+
 <?php
 
 echo "COPYRIGHT : SGB TEAM\n\n";
